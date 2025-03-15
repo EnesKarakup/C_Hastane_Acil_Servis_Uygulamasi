@@ -94,7 +94,8 @@ Uygulama, aşağıdaki ana bileşenlerden oluşmaktadır:
 - `HL7Message`: HL7 formatında mesaj yapısı
 
 ## Katkıda Bulunma
-Projeye katkıda bulunmak için lütfen bir "fork" oluşturun ve "pull request" gönderin. Büyük değişiklikler için önce bir "issue" açarak tartışmanızı öneririz.
+Projeye katkıda bulunmak için lütfen bir "fork" oluşturun ve "pull request" gönderin. Büyük değişiklikler için önce bir "issue" açarak tartışmanızı öneririz. Lütfen kodlama standartlarına ve proje yapısına uygun değişiklikler yapmaya özen gösterin.
+Katkılarınız için şimdiden teşekkürler! 🚀
 
 ## Gelecek Geliştirmeler
 - [ ] Veritabanı entegrasyonu
