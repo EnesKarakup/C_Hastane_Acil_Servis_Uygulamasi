@@ -105,7 +105,8 @@ Katkılarınız için şimdiden teşekkürler! 🚀
 - [ ] Gelişmiş HL7 entegrasyonu
 
 ## Lisans
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
+Bu proje, özgürce kullanılabilir ve paylaşılabilir. Kodu değiştirebilir, geliştirebilir ve ticari olmayan projelerinizde kullanabilirsiniz.
+Ancak, projenin yazarı olarak her zaman yazarı belirtmeniz rica olunur.
 
 ## İletişim
-Sorularınız veya önerileriniz için [e-posta adresiniz veya GitHub kullanıcı adınız] üzerinden iletişime geçebilirsiniz.
+
