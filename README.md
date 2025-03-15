@@ -36,7 +36,7 @@ Uygulama, aşağıdaki 5 seviyeli triyaj sistemini kullanmaktadır:
 
 ## Sistem Akış Diyagramı
 
-![Acil Servis Akış Diyagramı](flowchart.png)
+![Blank diagram](https://github.com/user-attachments/assets/a7b052f7-abfc-4e04-ab27-1bccfa34d9f6)
 
 ## Nasıl Kullanılır
 
