@@ -109,4 +109,5 @@ Bu proje, özgürce kullanılabilir ve paylaşılabilir. Kodu değiştirebilir, 
 Ancak, projenin yazarı olarak her zaman yazarı belirtmeniz rica olunur.
 
 ## İletişim
-
+Proje hakkında herhangi bir sorunuz veya öneriniz varsa GitHub hesabım üzerinden bana ulaşabilirsiniz!
+🔗 GitHub: https://github.com/EnesKarakup
