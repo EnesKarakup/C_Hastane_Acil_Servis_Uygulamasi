@@ -110,4 +110,4 @@ Ancak, projenin yazarı olarak her zaman yazarı belirtmeniz rica olunur.
 
 ## İletişim
 Proje hakkında herhangi bir sorunuz veya öneriniz varsa GitHub hesabım üzerinden bana ulaşabilirsiniz!
-🔗 GitHub: https://github.com/EnesKarakup
+ 🔗 GitHub: https://github.com/EnesKarakup
