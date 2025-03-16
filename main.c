@@ -175,7 +175,6 @@ void TriyajBelirleme(TriyajBilgisi* triyaj) {
     }
     if(triyaj->atesDegeri > 39.0 && triyaj->aciliyetSeviyesi > 1) { // Ateş 39°C üzerindeyse, aciliyet bir kademe yükselir
         triyaj->aciliyetSeviyesi--;
-        triyaj->aciliyetSeviyesi--;
         switch(triyaj->aciliyetSeviyesi) {
             case 1: strcpy(triyaj->color, "Kirmizi"); break;
             case 2: strcpy(triyaj->color, "Turuncu"); break;
