@@ -29,7 +29,7 @@ typedef struct TriyajBilgisi {
     float atesDegeri;
     char gelisTarihi[12];
     char gelisSaati[10];
-    char color[10];        // Belirlenen aciliyet rengi
+    char color[10];          // Belirlenen aciliyet rengi
 } TriyajBilgisi;
 
 // ilaç bilgilerini tutan yapı
